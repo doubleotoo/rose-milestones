@@ -1,0 +1,7 @@
+h1. ROSE Milestones
+
+**Tentative roadmap** with no specific dates attached. Please also refer to "the Issues Milestones":https://github.com/rose-compiler/rose/issues/milestones.
+
+|_. ??_"VERSION":http://semver.org/_?? |_. DESCRIPTION |
+| "1.0.0":https://github.com/rose-compiler/rose-milestones/tree/master/1.0.0 | Huge feature release with C++11 support, boost::program_options, revamped documentation and website |
+
